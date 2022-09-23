@@ -14,5 +14,8 @@
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-n": "^15.3.0",
     "eslint-plugin-promise": "^6.0.1"
+  },
+  "dependencies": {
+    "winston": "^3.8.2"
   }
 }
