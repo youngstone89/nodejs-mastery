@@ -24,11 +24,11 @@ user1.dosomething()
 user2.dosomething()
 
 // not recommended
-// Strings, numbers, booleans should not be declared as objects since they hinder performance. 
-var a = new Object()
-var b = new String()
-var c = new String('bob')
-var d = new Number()
-var e = new Number(25)
-var f = new Boolean()
-var g = new Boolean(true)
+// Strings, numbers, booleans should not be declared as objects since they hinder performance.
+const a = new Object()
+const b = new String()
+const c = new String('bob')
+const d = new Number()
+const e = new Number(25)
+const f = new Boolean()
+const g = new Boolean(true)
