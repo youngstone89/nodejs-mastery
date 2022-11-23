@@ -1,0 +1,4 @@
+{"level":"error","message":"hi"}
+{"level":"error","message":"hi","service":"user-service"}
+{"level":"error","message":"hi","service":"user-service"}
+{"level":"error","message":"hi","service":"user-service"}

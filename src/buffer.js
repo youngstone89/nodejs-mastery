@@ -9,3 +9,9 @@ const buf = Buffer.concat(arr)
 console.log(buf)
 console.log(buf.toString())
 console.log(buf.toJSON())
+
+const chunks = [Buffer.from(JSON.stringify({
+  a: 'b'
+}))]
+const result = Buffer.concat(chunks).toString() !== 'OK' ? JSON.parse(Buffer.concat(chunks).toString()) : ''
+console.log(result.a)

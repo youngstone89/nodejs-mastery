@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/yeongseokkim/Workspace/nodejs-mastery/src/logs/.f18eb4e19ec4597df89aec39140ca9c0b0bce552-audit.json",
+    "files": [
+        {
+            "date": 1669184381526,
+            "name": "/Users/yeongseokkim/Workspace/nodejs-mastery/src/logs/nodejs-guide-2022-11-23.log",
+            "hash": "4c50f571ef842149ccc15555b3d21b8a0d686f8ab34a64c5ee1673d54fdfd18b"
+        }
+    ],
+    "hashType": "sha256"
+}
