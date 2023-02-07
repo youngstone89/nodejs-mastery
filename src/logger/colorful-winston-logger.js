@@ -1,5 +1,6 @@
 
 const winston = require('winston')
+const path = require('path')
 const { format } = winston
 const { combine, colorize, timestamp, printf } = format
 
@@ -72,3 +73,8 @@ const logger = winston.createLogger({
 logger.info('test print', { a: 1, b: 2 })
 logger.debug('test print', { a: 1, b: 2 })
 logger.error('test print', { a: 1, b: 2 })
+
+const getLogger = caller => logger.child({
+  label: path.basename(caller)
+})
+module.exports = getLogger
