@@ -1,0 +1,10 @@
+{"label":"app.js","level":"debug","message":"Got cheese.","service":"live-agent-adapter","timestamp":"2023-02-09 12:42:47.409"}
+{"label":"app.js","level":"info","message":"Cheese is Comté.","service":"live-agent-adapter","timestamp":"2023-02-09 12:42:47.412"}
+{"label":"app.js","level":"warn","message":"Cheese is quite smelly.","service":"live-agent-adapter","timestamp":"2023-02-09 12:42:47.413"}
+{"label":"app.js","level":"error","message":"Cheese is too ripe!","service":"live-agent-adapter","timestamp":"2023-02-09 12:42:47.413"}
+{"label":"app.js","level":"info","message":"i am healthy.","service":"live-agent-adapter","timestamp":"2023-02-09 12:42:47.542"}
+{"label":"app.js","level":"debug","message":"Got cheese.","service":"live-agent-adapter","timestamp":"2023-02-09 12:44:17.273"}
+{"label":"app.js","level":"info","message":"Cheese is Comté.","service":"live-agent-adapter","timestamp":"2023-02-09 12:44:17.277"}
+{"label":"app.js","level":"warn","message":"Cheese is quite smelly.","service":"live-agent-adapter","timestamp":"2023-02-09 12:44:17.277"}
+{"label":"app.js","level":"error","message":"Cheese is too ripe!","service":"live-agent-adapter","timestamp":"2023-02-09 12:44:17.278"}
+{"label":"app.js","level":"info","message":"i am healthy.","service":"live-agent-adapter","timestamp":"2023-02-09 12:44:17.394"}
