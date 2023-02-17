@@ -1,0 +1,88 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:/C=US/ST=Massachusetts/L=Waltham/O=NWN Corporation/CN=*.cc.nwncloud.com
+   i:/C=US/O=DigiCert Inc/CN=DigiCert TLS RSA SHA256 2020 CA1
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIG6DCCBdCgAwIBAgIQDQdZQ9USf/q2hHZjYp4bODANBgkqhkiG9w0BAQsFADBP
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMSkwJwYDVQQDEyBE
+aWdpQ2VydCBUTFMgUlNBIFNIQTI1NiAyMDIwIENBMTAeFw0yMjA0MTQwMDAwMDBa
+Fw0yMzA0MjEyMzU5NTlaMG0xCzAJBgNVBAYTAlVTMRYwFAYDVQQIEw1NYXNzYWNo
+dXNldHRzMRAwDgYDVQQHEwdXYWx0aGFtMRgwFgYDVQQKEw9OV04gQ29ycG9yYXRp
+b24xGjAYBgNVBAMMESouY2MubnduY2xvdWQuY29tMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAwgOyQ7A1V6r3RpOMjDeho5g8t+7qjD/TFlDGTQOVkcR7
+BGRa9DAz3xMt8HKU6vvYtD80QkTL7nRbe3b5XQ0HehexoIImmHNzAWQbSgK/Z8dY
+aqoDhtJiRYRuvH+HmGZqeMe+2+4HgoKN6xzuzmgeZ6DIuoEsdr8KbwlbRvUJlJo4
+t1+XTpEaElcVbAD4PLjBzCURtIaUKqAJcU9cyEtM3Drp2eqgUCFjr6sbviFSoBfZ
+shrN5uPYEba3kgiMvJR2Zkt/yEfvg68oTtwdWJj7G9iRF3cFX+K3RmqkBAlGfcgc
+gyABPODTFuRMQmGMFhUP+kMhpYC0Q9E3PYcpcdF1ZQIDAQABo4IDoDCCA5wwHwYD
+VR0jBBgwFoAUt2ui6qiqhIx56rTaD5iyxZV2ufQwHQYDVR0OBBYEFJdGEkWl/SRx
+L/9/gvp4oz5K8F1oMEsGA1UdEQREMEKCESouY2MubnduY2xvdWQuY29tgg4qLm53
+bmNsb3VkLmNvbYIPY2MubnduY2xvdWQuY29tggxud25jbG91ZC5jb20wDgYDVR0P
+AQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjCBjwYDVR0f
+BIGHMIGEMECgPqA8hjpodHRwOi8vY3JsMy5kaWdpY2VydC5jb20vRGlnaUNlcnRU
+TFNSU0FTSEEyNTYyMDIwQ0ExLTQuY3JsMECgPqA8hjpodHRwOi8vY3JsNC5kaWdp
+Y2VydC5jb20vRGlnaUNlcnRUTFNSU0FTSEEyNTYyMDIwQ0ExLTQuY3JsMD4GA1Ud
+IAQ3MDUwMwYGZ4EMAQICMCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cuZGlnaWNl
+cnQuY29tL0NQUzB/BggrBgEFBQcBAQRzMHEwJAYIKwYBBQUHMAGGGGh0dHA6Ly9v
+Y3NwLmRpZ2ljZXJ0LmNvbTBJBggrBgEFBQcwAoY9aHR0cDovL2NhY2VydHMuZGln
+aWNlcnQuY29tL0RpZ2lDZXJ0VExTUlNBU0hBMjU2MjAyMENBMS0xLmNydDAJBgNV
+HRMEAjAAMIIBfgYKKwYBBAHWeQIEAgSCAW4EggFqAWgAdQDoPtDaPvUGNTLnVyi8
+iWvJA9PL0RFr7Otp4Xd9bQa9bgAAAYApKluWAAAEAwBGMEQCIE1QeTxLFjvkv1uL
+YuY8Rj0ROCd4dcJH1+3XbVVvYaQ6AiBawo/ahTp0D12XV1T8xe4CaUPrfkNk5jKg
+eoOYORxKBgB3ADXPGRu/sWxXvw+tTG1Cy7u2JyAmUeo/4SrvqAPDO9ZMAAABgCkq
+W+MAAAQDAEgwRgIhAM+njmA4DATjTdJwsyIvftApMRGMA2FI+LuLujahg14kAiEA
+16I+Leo9OfM99dcCYiCTwbtzBidoQxXEPCy8lC3V5l8AdgCzc3cH4YRQ+GOG1gWp
+3BEJSnktsWcMC4fc8AMOeTalmgAAAYApKlwaAAAEAwBHMEUCIQDCEfs4s4ZMvVgz
+PszjPO3ToZDU29eq2NJL7p9SjvirAAIgRLhZAs4+F/fcBX77bjlsOpf1xfCCUBhn
+Blr4xj0RQnowDQYJKoZIhvcNAQELBQADggEBAA+fDCutv3oorm1pv4t/Vc1/Rf2a
+rXIKRu8DppaV3FFBYADk1JiiHkU/97d5IX+77metZtWwkYe3t7tijR/kRLh5BuPl
+ZbOpp37nxoaQKWBR2qFRDrl6TXbIEAe/GLS85Cat6bkK3+dhJRELmbvqVr2EwHAV
+axpXxQ7JTq9AAM/HEi6V/MK86r83Rv8FlsugJdB7MU+3H48ykcaLsCfiaN78Z4md
+jEQIH0nQzvDPZeTfCfUbFSdNxSdlp1h98Z4a0Q999LbO/ci/UXMJEv0ULz6tcOxv
+KQUFaDEi6jHHdGMwvIIgpqDrfCizW3RJ2OJ6SC6raveTJlgTtF/NzsT25co=
+-----END CERTIFICATE-----
+subject=/C=US/ST=Massachusetts/L=Waltham/O=NWN Corporation/CN=*.cc.nwncloud.com
+issuer=/C=US/O=DigiCert Inc/CN=DigiCert TLS RSA SHA256 2020 CA1
+---
+No client certificate CA names sent
+Server Temp Key: ECDH, X25519, 253 bits
+---
+SSL handshake has read 2461 bytes and written 338 bytes
+---
+New, TLSv1/SSLv3, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 8CDD90ED4272A292256E4DD39839E997E51115F1717E8497C8D070C309F05EF3
+    Session-ID-ctx: 
+    Master-Key: F3C9E43C64CED6904E23F96CED258F645DB310A61F29A1B41B426251FFA3A19C199018CF92041EEB2D66D592E652F02C
+    TLS session ticket lifetime hint: 300 (seconds)
+    TLS session ticket:
+    0000 - 33 78 f2 bd 8d c3 a5 04-8d 8e c3 ce 39 11 50 04   3x..........9.P.
+    0010 - 93 b9 17 0c 0e 9c 54 00-78 ab 72 e7 23 1b bb 91   ......T.x.r.#...
+    0020 - e7 08 7c 18 05 52 54 cc-45 10 79 ce 88 c4 92 1e   ..|..RT.E.y.....
+    0030 - a6 cb f8 5a 64 85 c2 79-b6 8f db 3c 8e c1 31 31   ...Zd..y...<..11
+    0040 - d1 8b 99 8c 77 32 e4 77-3c 86 a6 c4 39 66 d3 3c   ....w2.w<...9f.<
+    0050 - 68 0a 50 a4 fd 99 8e 02-bc 6f 8c 1a e3 10 2f e6   h.P......o..../.
+    0060 - 6e 80 97 15 8b 34 1a 6d-4a a2 cf 9f c2 20 06 48   n....4.mJ.... .H
+    0070 - 22 1a 53 eb 28 96 05 36-f2 63 b2 56 5f e2 dc a0   ".S.(..6.c.V_...
+    0080 - 52 74 45 6c b8 a2 94 18-96 b4 f9 cf 81 b4 4a 56   RtEl..........JV
+    0090 - 51 83 20 f4 a2 98 d4 20-64 8f a0 65 d0 2a 4c 89   Q. .... d..e.*L.
+    00a0 - 38 3a 5a 51 46 25 af 21-b2 5f 8a 83 57 6b 8a 69   8:ZQF%.!._..Wk.i
+    00b0 - 05 07 de e9 3c c0 57 4d-9d 70 2a 34 ce c4 c7 a1   ....<.WM.p*4....
+    00c0 - 55 75 01 09 c5 15 29 61-b4 01 09 ca 43 3a 22 f4   Uu....)a....C:".
+    00d0 - 64 fd 01 71 a1 7c ff 21-8d 86 f6 8e 71 a6 1a 5f   d..q.|.!....q.._
+
+    Start Time: 1676607572
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---
+closed
