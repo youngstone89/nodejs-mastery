@@ -1,0 +1,17 @@
+const { run } = require('./a_module')
+const fn = require('./function_module')
+const logger = require('./named')
+const Logger = require('./logger')
+const dbLogger = new Logger('db')
+const dflogger = require('./default')
+const customLogger = new dflogger.constructor('CUSTOM')
+customLogger.log('hey')
+
+require('./patcher')
+dflogger.customMessage()
+
+dbLogger.info('info')
+run()
+fn()
+logger.info('hi')
+logger.verbose('hi')
