@@ -22,3 +22,5 @@ function finish () {
   // all the tasks completed
   console.log('all tasks completed')
 }
+
+console.log('end')
