@@ -5,18 +5,22 @@ const options = {
   hostname: 'en.wikipedia.org',
   path: '/wiki/Main_Page'
 }
-
-https.get(options, (res) => {
+const links = []
+const req = https.get(options, (res) => {
   let html = ''
   res.on('data', (chunk) => {
     html += chunk
   })
   res.on('end', () => {
     const $ = cheerio.load(html)
-    $('a').each((i, elem) => {
-      console.log($(elem).attr('href'))
-    })
+    for (const elem of $('a')) {
+      links.push($(elem).attr('href'))
+    }
   })
 }).on('error', (error) => {
   console.error(error)
 })
+
+req.end()
+
+console.log(links)
