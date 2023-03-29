@@ -18,10 +18,10 @@ const request = https.request(url, (response) => {
     console.log(body.title)
     console.log(body.completed)
   })
+  response.on('error', (err) => {
+    console.log('An error', err)
+    console.log('increase retry count')
+    retryCount += 1
+  })
 })
-
-request.on('error', (error) => {
-  console.log('An error', error)
-})
-
 request.end()
