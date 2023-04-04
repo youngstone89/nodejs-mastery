@@ -10,7 +10,7 @@ let content
 const filename = 'download/example.com.html'
 const url = 'https://example.com'
 
-superagent.get(url)
+const result = superagent.get(url)
   .then(res => {
     content = res.text
     return mkdirp(dirname(filename))
@@ -23,3 +23,5 @@ superagent.get(url)
     console.log(`Downloaded and saved: ${url}`)
     return content
   })
+
+result.then(content => console.log('content: ' + content))
