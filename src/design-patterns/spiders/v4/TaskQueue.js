@@ -19,7 +19,7 @@ export class TaskQueue {
       const task = this.queue.shift()
       task().finally(() => {
         this.running--
-        this.next()
+        process.nextTick(this.next.bind(this))
       })
       this.running++
     }
