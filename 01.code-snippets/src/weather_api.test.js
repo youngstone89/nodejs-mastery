@@ -1,8 +1,7 @@
-
-import nock from 'nock'
+const nock = require('nock') 
 jest.unmock('nock')
 
-const Service = require('weather.js')
+const { getData } = require('./weather.js')
 
 describe('expectedData', () => {
   it('checks if API returns expected data', async () => {
@@ -15,7 +14,7 @@ describe('expectedData', () => {
           completed: true
         }
       })
-    const results = await Service.getData()
+    const results = await getData()
     expect(results.data.title).toEqual('The weather is nice')
   })
 })
